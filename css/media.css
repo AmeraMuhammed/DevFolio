@@ -1,0 +1,28 @@
+@media (max-width:992px){
+    .header-content h1{
+        max-width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width:768px){
+    .header-content h1{
+        max-width: 100%;
+        font-size: 48px;
+    }
+}
+
+@media (max-width:505px){
+    .header-content h1{
+        max-width: 80%;
+        font-size: 48px;
+    }
+}
+
+@media (max-width:417px){
+    .title-box p{
+        max-width: 80%;
+        margin: 0 auto;
+        margin-bottom: 1rem;
+    }
+}
